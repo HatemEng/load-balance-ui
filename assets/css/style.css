@@ -1,0 +1,121 @@
+.container {
+    max-width: 95% !important;
+}
+
+
+svg {
+    color: #c1c1c1c1;
+    margin: 3px 10px 3px 3px;
+    cursor: pointer;
+}
+
+svg:hover {
+    color: black;
+}
+
+.sort {
+    display: inline;
+    vertical-align: middle;
+}
+
+.options .form-control {
+    height: 90% !important;
+    padding-left: 25px !important;
+}
+.options svg {
+    position: absolute;
+    top: 18%;
+    left: 6%;
+}
+
+
+ul {
+    list-style: none;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.list-subnets li:hover {
+    background: #f1f1f1;
+    cursor: pointer;
+}
+
+.card-port-list {
+    padding: .5rem 1rem !important;
+}
+
+.card {
+    margin-bottom: 5px;
+}
+
+.list-subnets {
+    display: none;
+}
+.list-subnets li {
+    padding-left: 28px;
+}
+
+.details {
+    padding-left: 5px;
+}
+
+
+.status {
+    width: 15px;
+    height: 15px;
+    border-radius: 100%;
+    margin-left: 5px;
+    display: inline-block;
+}
+
+.status.s-1 {
+    background: red;
+}
+
+.status.s-2 {
+    background: green;
+}
+
+.status.s-3 {
+    background: gray;
+}
+.port-title {
+    padding-bottom: 10px !important;
+}
+
+
+svg.collapse-arrow {
+    transform: rotate(270deg);
+}
+
+.ui-draggable-dragging {
+    z-index: 1000;
+}
+
+
+
+body.dragging, body.dragging * {
+    cursor: move !important;
+}
+
+.dragged {
+    position: absolute;
+    opacity: 1;
+    z-index: 2000;
+    background-color: #c1c1c1;
+}
+
+ul.list-subnets li.placeholder {
+    position: relative;
+    /** More li styles **/
+}
+ul.list-subnets li.placeholder:before {
+    position: absolute;
+    /** Define arrowhead **/
+}
+
+
+.toolbar .filter span {
+    margin-right: 25px;
+    vertical-align: middle;
+}

@@ -1,0 +1,173 @@
+[
+  {
+    "id": 1,
+    "port":"Amara Nexus Amara-BB1",
+    "data": [
+      {
+        "id": 1,
+        "name": "Messan Band 400",
+        "subnet": "192.168.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 2,
+        "name": "Messan Band 500",
+        "subnet": "10.168.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 3,
+        "name": "Amara -3",
+        "subnet": "12.18.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 4,
+        "name": "Baghdad Band 100",
+        "subnet": "19.16.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 5,
+        "name": "Messan Band 50",
+        "subnet": "152.118.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 6,
+        "name": "Najaf Band 400",
+        "subnet": "121.8.0.1/24",
+        "status": 1
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "port":"Amara Nexus Amara-BB2",
+    "data": [
+      {
+        "id": 1,
+        "name": "Messan Band 400",
+        "subnet": "192.168.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 2,
+        "name": "Messan Band 500",
+        "subnet": "10.168.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 3,
+        "name": "Amara -3",
+        "subnet": "12.18.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 4,
+        "name": "Baghdad Band 100",
+        "subnet": "19.16.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 5,
+        "name": "Messan Band 50",
+        "subnet": "152.118.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 6,
+        "name": "Najaf Band 400",
+        "subnet": "121.8.0.1/24",
+        "status": 1
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "port":"Amara Nexus Amara-AA1",
+    "data": [
+      {
+        "id": 1,
+        "name": "Messan Band 400",
+        "subnet": "192.168.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 2,
+        "name": "Messan Band 500",
+        "subnet": "10.168.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 3,
+        "name": "Amara -3",
+        "subnet": "12.18.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 4,
+        "name": "Baghdad Band 100",
+        "subnet": "19.16.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 5,
+        "name": "Messan Band 50",
+        "subnet": "152.118.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 6,
+        "name": "Najaf Band 400",
+        "subnet": "121.8.0.1/24",
+        "status": 1
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "port":"Amara Nexus Amara-AA2",
+    "data": [
+      {
+        "id": 1,
+        "name": "Messan Band 400",
+        "subnet": "192.168.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 2,
+        "name": "Messan Band 500",
+        "subnet": "10.168.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 3,
+        "name": "Amara -3",
+        "subnet": "12.18.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 4,
+        "name": "Baghdad Band 100",
+        "subnet": "19.16.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 5,
+        "name": "Messan Band 50",
+        "subnet": "152.118.0.1/24",
+        "status": 1
+      },
+      {
+        "id": 6,
+        "name": "Najaf Band 400",
+        "subnet": "121.8.0.1/24",
+        "status": 1
+      }
+    ]
+  }
+]
